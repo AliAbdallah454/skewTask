@@ -1,2 +1,1 @@
 # Skew Task
-# Hello, noobs
